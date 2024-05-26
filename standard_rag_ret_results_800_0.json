@@ -1,0 +1,8 @@
+{
+    "Chunk_size": 800,
+    "Chunk_overlap": 0,
+    "Average Precision@3": 0.1893333333333332,
+    "Average Recall@3": 0.568,
+    "F1 Score@3": 0.2839999999999998,
+    "Mean Reciprocal Rank (MRR)": 0.5146666666666667
+}
