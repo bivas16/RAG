@@ -1,9 +1,0 @@
-{
-    "Type_of_method": "Matching with representative keywords embeddings",
-    "Chunk_size": 500,
-    "Chunk_overlap": 100,
-    "Average Precision@3": 0.14933333333333335,
-    "Average Recall@3": 0.448,
-    "F1 Score@3": 0.224,
-    "Mean Reciprocal Rank (MRR)": 0.4173333333333334
-}
