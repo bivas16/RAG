@@ -1,6 +1,6 @@
 This repository contains the work regarding my thesis which inlcude the methodology to observe the impact of clustering and topic-modeling on RAG (Retrieval Augmented Generation).
 
-#link to overleaf: https://www.overleaf.com/read/mtbksvqzbprr#14c9c7
+- Link to documentation: https://www.overleaf.com/read/mtbksvqzbprr#14c9c7
 
 The main files for both datset consists of implementation and results. The main files are as follows :
 
